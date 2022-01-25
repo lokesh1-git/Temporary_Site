@@ -85,7 +85,7 @@ section h1 {
     color: rgb(18, 21, 230);
     font-size: 25px;
     list-style: none;
-    border: 3px white;
+    border: 2px solid white;
     border-radius: 27px;
     padding: 5px 145px;
     transition: all 0.3s ease-out;
@@ -106,7 +106,7 @@ section h1 {
     color: rgb(18, 21, 230);
     font-size: 25px;
     list-style: none;
-    border: 3px white;
+    border: 2px solid white;
     border-radius: 27px;
     padding: 5px 155px;
     margin-top: 20px;
